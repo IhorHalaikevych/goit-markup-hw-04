@@ -585,9 +585,7 @@ margin-right: 0px;
     margin-bottom: 0;
     
   } */
-   .portfolio-fillter:is(:hover, :focus){
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
-  } 
+ 
 
 .filter-pictures{
 
